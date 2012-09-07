@@ -22,7 +22,7 @@ PRODUCT_COPY_FILES += \
     vendor/dreams/prebuilt/common/app/BrowserGoogle.apk:system/app/BrowserGoogle.apk \
     vendor/dreams/prebuilt/common/app/Chrome.apk:system/app/Chrome.apk \
     vendor/dreams/prebuilt/common/app/ChromeBookmarksSyncAdapter.apk:system/app/ChromeBookmarksSyncAdapter.apk \
-    vendor/dreams/prebuilt/common/app/DesktopGoogle.apk:system/app/DesktopGoogle.apk \
+    vendor/dreams/prebuilt/common/app/DeskClockGoogle.apk:system/app/DeskClockGoogle.apk \
     vendor/dreams/prebuilt/common/app/Gmail.apk:system/app/Gmail.apk \
     vendor/dreams/prebuilt/common/app/CalendarGoogle.apk:system/app/CalendarGoogle.apk \
     vendor/dreams/prebuilt/common/app/EmailGoogle.apk:system/app/EmailGoogle.apk \
