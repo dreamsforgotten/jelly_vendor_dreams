@@ -1,0 +1,8 @@
+#add_lunch_combo dreams_crespo-userdebug
+add_lunch_combo dreams_crespo4g-userdebug
+#add_lunch_combo dreams_emulator-eng
+#add_lunch_combo dreams_maguro-userdebug
+#add_lunch_combo dreams_stingray-user
+#add_lunch_combo dreams_toro-userdebug
+add_lunch_combo full_toroplus-userdebug
+#add_lunch_combo dreams_wingray-user
